@@ -2,11 +2,14 @@
 
 <!-- <p align="left"> <a href="https://twitter.com/alex57010" target="blank"><img src="https://img.shields.io/twitter/follow/alex57010?logo=twitter&style=for-the-badge" alt="alex57010" /></a> </p> -->
 
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=A13xMtzL&theme=monokai)
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=A13xMtzL&theme=monokai)
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=A13xMtzL&theme=monokai)
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=A13xMtzL&theme=monokai)
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=A13xMtzL&theme=monokai&utcOffset=8)
+<div align="center">
+  <img src= "http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=A13xMtzL&theme=monokai"/>
+  <img src= "http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=A13xMtzL&theme=monokai"/>
+  <img src= "http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=A13xMtzL&theme=monokai"/>
+  <img src= "http://github-profile-summary-cards.vercel.app/api/cards/stats?username=A13xMtzL&theme=monokai"/>
+  <img src= "http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=A13xMtzL&theme=monokai&utcOffset=8"/>
+
+</div>
 
 <h3 align="left">Contacta conmigo:</h3>
 <p align="left">
