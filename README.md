@@ -1,5 +1,5 @@
 <!-- agrega Materhead  -->
-![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/8f444a91900373.5e3d63788609e.gif)
+<!-- ![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/8f444a91900373.5e3d63788609e.gif) -->
 <!-- ![MasterHead](https://i.pinimg.com/originals/01/38/11/013811d63121a093c32714cbbeeea0d0.gif) -->
 <h1 align="center">Hola👋, mi nombre es Alejandro </h1>
 
@@ -12,7 +12,7 @@
   <img src= "http://github-profile-summary-cards.vercel.app/api/cards/stats?username=A13xMtzL&theme=monokai"/>
   <img src= "http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=A13xMtzL&theme=monokai&utcOffset=8"/>
 
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=a13xmtzl&theme=dark" alt="a13xmtzl" /></p>
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=a13xmtzl&theme=monokai" alt="a13xmtzl" /></p>
 </div>
 
 <h3 align="left">Contacta conmigo:</h3>
