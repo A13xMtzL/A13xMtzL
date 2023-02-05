@@ -1,6 +1,4 @@
-<!-- agrega Materhead  -->
-![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/8f444a91900373.5e3d63788609e.gif)
-<!-- ![MasterHead](https://i.pinimg.com/originals/01/38/11/013811d63121a093c32714cbbeeea0d0.gif) -->
+[![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)](https://rishavchanda.io)
 <h1 align="center">Hola👋, mi nombre es Alejandro </h1>
 
 <!-- <p align="left"> <a href="https://twitter.com/alex57010" target="blank"><img src="https://img.shields.io/twitter/follow/alex57010?logo=twitter&style=for-the-badge" alt="alex57010" /></a> </p> -->
@@ -12,7 +10,7 @@
   <img src= "http://github-profile-summary-cards.vercel.app/api/cards/stats?username=A13xMtzL&theme=monokai"/>
   <img src= "http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=A13xMtzL&theme=monokai&utcOffset=8"/>
 
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=a13xmtzl&theme=dark" alt="a13xmtzl" /></p>
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=a13xmtzl&theme=monokai" alt="a13xmtzl" /></p>
 </div>
 
 <h3 align="left">Contacta conmigo:</h3>
