@@ -1,9 +1,17 @@
 <!-- [![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/8f444a91900373.5e3d63788609e.gif)](https://rishavchanda.io) -->
 <!-- [![MasterHead](https://i.pinimg.com/originals/01/38/11/013811d63121a093c32714cbbeeea0d0.gif)](https://rishavchanda.io) -->
+<!-- Snake -->
+<!-- <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Guaderxx/Guaderxx/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Guaderxx/Guaderxx/output/github-snake.svg">
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Guaderxx/Guaderxx/output/github-snake.svg"> -->
+</picture>
 
+<!-- Gif Mario -->
 [![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)](https://rishavchanda.io)
 
 <h1 align="center">Hola👋, mi nombre es Alejandro </h1>
+<h4 align="center">Estudiante de Ingeniería en Tecnologías Computacionales  </h4>
 
 <!-- <p align="left"> <a href="https://twitter.com/alex57010" target="blank"><img src="https://img.shields.io/twitter/follow/alex57010?logo=twitter&style=for-the-badge" alt="alex57010" /></a> </p> -->
 
