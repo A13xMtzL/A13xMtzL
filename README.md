@@ -11,7 +11,7 @@
 [![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)](https://rishavchanda.io)
 
 <h1 align="center">Hola👋, mi nombre es Alejandro </h1>
-<h4 align="center">Estudiante de Ingeniería en Tecnologías Computacionales  </h4>
+<h4 align="center">Ingeniero en Tecnologías Computacionales  </h4>
 
 <!-- <p align="left"> <a href="https://twitter.com/alex57010" target="blank"><img src="https://img.shields.io/twitter/follow/alex57010?logo=twitter&style=for-the-badge" alt="alex57010" /></a> </p> -->
 
