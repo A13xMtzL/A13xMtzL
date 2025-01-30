@@ -1,19 +1,8 @@
-<!-- [![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/8f444a91900373.5e3d63788609e.gif)](https://rishavchanda.io)
-[![MasterHead](https://i.pinimg.com/originals/01/38/11/013811d63121a093c32714cbbeeea0d0.gif)](https://rishavchanda.io)  -->
-<!-- Snake -->
-<!-- <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Guaderxx/Guaderxx/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Guaderxx/Guaderxx/output/github-snake.svg">
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Guaderxx/Guaderxx/output/github-snake.svg"> 
-</picture>  -->
-
 <!-- Gif Mario -->
 [![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)](https://rishavchanda.io)
 
 <h1 align="center">Hola👋, mi nombre es Alejandro </h1>
-<h4 align="center">Estudiante de ingeniería en Tecnologías Computacionales  </h4>
-
-<!-- <p align="left"> <a href="https://twitter.com/alex57010" target="blank"><img src="https://img.shields.io/twitter/follow/alex57010?logo=twitter&style=for-the-badge" alt="alex57010" /></a> </p> -->
+<h4 align="center">Ingeniero en Tecnologías Computacionales | Desarrollador de Software </h4>
 
 <div align="center">
   <img src= "http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=A13xMtzL&theme=monokai"/>
@@ -25,11 +14,11 @@
 </div>
 
 
-### Contacta Conmigo
+<h3 align="left">📫 ¿Quieres colaborar o platicar? ¡Contáctame!</h3>
 
-<div align="left">
+<div align="center">
   <a href="https://linkedin.com/in/alejandro-martínez-luna-06371a23a" target="blank">
-    <img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alejandro-martínez-luna-06371a23a" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alejandro-martínez-luna-06371a23a" height="30" width="40" />
   </a>
     <a
      style="margin-left: 24px;"
@@ -38,7 +27,7 @@
     </a>
 </div>
 
-### Lenguajes y Herramientas
+<h3 align="left">🚀 Lenguajes y Herramientas</h3>
 
 <div align="center">
 
@@ -65,10 +54,22 @@
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="52" alt="mysql logo"  /></a>
 <a href="https://unity.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" width="52" alt="unity logo"  /></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52" alt="git logo"  /></a>
-
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=12161932379&width=420&count=6&unique=true)
 </div>
 
-<!-- ### 😂 Random Dev Meme -->
+<h3 align="left">🎵 Music is life </h3>
+Porque la vida suena mejor con música:  
 
-<!-- <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/> -->
+```typescript
+// Code to keep the vibe alive 🎵
+if (!music.isPlayingNow()) {
+    music.play();
+    console.log("▶️ Music started!");
+} else {
+    console.log("🎶 Keep the rhythm alive!");
+}
+
+```
+<div align="center">
+
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=12161932379&width=420&count=5&unique=true)
+</div>
